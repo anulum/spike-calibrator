@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "SPIKE-CALIBRATOR",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "d9b429bfd72f8592422b38d5fa1fd4c8170232c228cfe0f60afe35e4cae8038b"
+    "sha256": "5904418483e0acb2a78459fc55db91f24bfb335bd3bfc528bc97aa57f0981c2d"
   }
 }

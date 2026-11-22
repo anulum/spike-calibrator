@@ -17,7 +17,7 @@ from calibrator_validation.inputs import read_file, read_json
 from calibrator_validation.report import Finding, Refusal, Report
 
 # Reviewed independently of the descriptor. Policy updates require code review.
-SCHEMA_SHA256 = "5f88be16ebc3204f4581345f0a22419ffd0e87de5a317e5a46bb2c4ca9e040b2"
+SCHEMA_SHA256 = "661afeb6b1198149ab5679f28e52118b0c74e7f78c0180653030d10f6b8413dd"
 SCHEMA_PATH = "schemas/repository-domain.schema.json"
 METADATA_PATH = "repository-domain.json"
 

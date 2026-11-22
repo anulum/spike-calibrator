@@ -64,6 +64,9 @@ def test_actual_repository_is_deterministic(repository: Path) -> None:
     [
         ("repository_name", "OTHER-REPOSITORY"),
         ("owner_group", "OTHER-GROUP"),
+        ("lifecycle", "local_scaffold"),
+        ("public_remote", "https://github.com/anulum/other-repository"),
+        ("public_remote", "https://github.com/anulum/SPIKE-CALIBRATOR"),
         ("capabilities", ["spike_calibrator.report.v1"]),
         ("claims", ["qualified"]),
         ("qualified_owned_schema_ids", ["spike_calibrator.report.v1"]),
